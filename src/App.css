@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+.App-content {
+  align-items: center;
+  background-color: #282c34;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: calc(10px + 2vmin);
+  justify-content: center;
+  min-height: 100vh;
+  padding: 16px;
+}
+
+a {
+  color: #09f;
+  font-size: 32px;
+}
+
+button {
+  font-size: 48px;
+}
+
+i {
+  font-size: 80px;
+}
